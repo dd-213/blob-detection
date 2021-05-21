@@ -192,7 +192,7 @@ void MatchBlobs(std::vector<Blob> &blobs, std::vector<Blob> &currentBlobs, const
 void DrawVisuals:
 	- showing outcome such as:
 		used borders
-		identified blobs as probable vehicles
+		identified blobs as likely vehicles
 		possible added count?
 */
 void DrawVisuals(std::vector<Blob>& blobs, cv::Mat& frame) {
