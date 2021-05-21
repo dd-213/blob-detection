@@ -3,7 +3,6 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
