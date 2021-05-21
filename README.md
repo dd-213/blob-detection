@@ -24,7 +24,7 @@ Possible improvement of existing parts:
 
 To do:
 - trucks (and any longer vehicles) are not yet supported
-- futher changes needed for effective counting, allowing for momentarily loss of tracking
+- futher changes needed for effective counting, allowing for momentary loss of tracking
 
 ## Acknowledgements
 This projects is based on [this project](https://github.com/ahmetozlu/vehicle_counting).
