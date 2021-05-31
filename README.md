@@ -1,5 +1,5 @@
-# Vehicle detection by blob detection implementation 
-> Implementation of blob detection algorithm for vehicle recognition on two-way roads.
+# Car detection by blob detection implementation 
+> Implementation of blob detection algorithm for car recognition on two-way roads.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -9,22 +9,18 @@
 
 ## General Information
 - implementation of blob detection (using findContours from opencv library)
-- specifically used for vehicle recognition on two-way road
+- specifically used for car recognition on two-way road
 - may be broadened to other uses, as blob detection is implemented individually and relies on motion detection
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _(tentatively) complete_ 
 
 - implemented blob detection
 - succesfully tracks cars
 
 ## Room for Improvement
-Possible improvement of existing parts:
-- blob detection could be more isolated
-
-To do:
 - trucks (and any longer vehicles) are not yet supported
-- futher changes needed for effective counting, allowing for momentary loss of tracking
+- (count option) futher changes needed for effective counting, allowing for momentary loss of tracking
 
 ## Acknowledgements
 This projects is based on [this project](https://github.com/ahmetozlu/vehicle_counting).
